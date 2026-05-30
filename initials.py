@@ -1,6 +1,6 @@
 #File: initials.py
 #Description: A program using only the print function to print out my initals
-#Assignment Number: Assignment 2
+#Assignment Number: Assignment 1
 #
 #Name: Emmanuel Agbedi
 #STUDENT ID: 2425402768
