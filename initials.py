@@ -5,7 +5,7 @@
 #Name: Emmanuel Agbedi
 #STUDENT ID: 2425402768
 #Email: 2425402768@live.gctu.edu.gh
-#Grader: Emma
+#Grader: Mr. Augustus Buckman
 #
 #On my honor, Emmanuel Agbedi,this programming assignment is my own work
 #and I have not provided this code to any other student
